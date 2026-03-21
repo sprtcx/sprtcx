@@ -10,9 +10,13 @@
 - 🎓 Computer Science student at RUDN University  
 - 🐧 Learning Linux and system fundamentals  
 - ⚙️ Passionate about Backend development and DevOps  
-- 📚 Building my own knowledge base and practical skills   
+- 📚 Building my own knowledge base and practical skills
 
----
+## 🌍 Languages
+
+- 🇬🇧 English — B2 (Upper Intermediate)
+- 🇷🇺 Russian — Native
+- 🇧🇾 Belorussian - Native
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +38,8 @@
 ## 📫 Contact Me
 
 - GitHub: https://github.com/sprtcx
+- mail: dima.venis@yandex.by
+- telegram: @sprtcx
 
 ---
 
