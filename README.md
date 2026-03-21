@@ -2,14 +2,15 @@
 
 🎯 Aspiring Backend / DevOps Engineer  
 💻 Currently learning: Python, Linux, C++    
+
 ---
 
 ## 🧠 About Me
 
-- 🎓 Student (Computer Science)
-- 🐧 Learning Linux & system fundamentals
-- ⚙️ Interested in Backend & DevOps
-- 📚 Building my own knowledge base
+- 🎓 Computer Science student at RUDN University  
+- 🐧 Learning Linux and system fundamentals  
+- ⚙️ Passionate about Backend development and DevOps  
+- 📚 Building my own knowledge base and practical skills   
 
 ---
 
@@ -27,12 +28,6 @@
 - Linux fundamentals
 - Backend development (Python)
 - DevOps basics (NGINX, servers, deployment)
-
----
-
-## 📂 Projects
-
-🚧 Coming soon...
 
 ---
 
