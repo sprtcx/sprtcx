@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Dmitry
 
-<!--
-**sprtcx/sprtcx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Backend / DevOps Engineer  
+💻 Currently learning: Python, Linux, C++    
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Student (Computer Science)
+- 🐧 Learning Linux & system fundamentals
+- ⚙️ Interested in Backend & DevOps
+- 📚 Building my own knowledge base
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python (basic), C++ (learning)
+- 🐧 OS: Linux (Ubuntu)
+- ⚙️ Tools: Git, GitHub, Bash
+- 🌐 Web: HTML, Markdown
+
+---
+
+## 📈 Currently Learning
+
+- Linux fundamentals
+- Backend development (Python)
+- DevOps basics (NGINX, servers, deployment)
+
+---
+
+## 📂 Projects
+
+🚧 Coming soon...
+
+---
+
+## 📫 Contact Me
+
+- GitHub: https://github.com/sprtcx
+
+---
+
+⭐ Always learning, always building
